@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joanfrancesblanc
-- 👀 I’m interested in Fonts, Text encoding, html, javascript, php, and custom emojis
-- 💞️ I’m looking to collaborate on improving language coverage in fonts
+- 👋 Hello, I am Joan Francés Blanc @joanfrancesblanc
+- 👀 I am interested in Fonts, Text encoding, html, javascript, php, and custom emojis
+- 💞️ I am looking to collaborate on improving language coverage in fonts
 - 📫 How to reach me: jf.blanc@ik.me 
 
 <!---
